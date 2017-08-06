@@ -1,0 +1,8 @@
+.ab_main{width: 895px; height: auto; margin-left: 47px;}
+.ab_main ul{width: 895px;margin: 0 auto; margin-left: 185px;}
+.ab_main ul li{ width: 895px;height: 100%; background: #dbd9d9; border: 1px solid #767474;margin-bottom: 50px;}
+.ab_main ul li:first-child img{width: 484px; height: 417px; float: right;}
+.ab_main ul li:first-child p{ width: 341px; height: 317px; font: 14px/22px "微软雅黑"; color: #272728; padding: 100px 20px 0 50px; text-align: left;  text-indent: 2em;}
+.ab_main ul li:first-child+li{float: left;margin-bottom: 130px;}
+.ab_main ul li:first-child+li img{width: 484px; height: 417px;float: left;}
+.ab_main ul li:first-child+li p{ width: 341px; height: 317px; font: 14px/22px "微软雅黑"; color: #272728; padding: 100px 20px 0 50px; text-align: left;  text-indent: 2em;float: right;}

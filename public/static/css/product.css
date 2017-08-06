@@ -1,0 +1,8 @@
+.pro_main{width: 933px; height: 935px; margin-left: 15px; float: right;}
+.pro_main .pro_list{ width: auto; height: 825px;}
+.pro_main .pro_list li{ width: 299px; height: 348px; margin: 0 0 39px 8px; float: left; position: relative; border: 2px solid #e7e8ea;}
+.pro_main .pro_list li a img{ width: 299px; height: 178px; background: url(../img/produc_list_bg.png) no-repeat center bottom; display: block;}
+.pro_main .pro_list .title{ width: 299px; height: 180px; background: url(../img/product_bg.png) no-repeat; position: absolute; top: 168px;}
+.pro_main .pro_list .title h2 a{ width: 299px; height: 30px; font: 14px/30px "微软雅黑"; color: #121212; display: block; text-align: center; padding-top: 60px;}
+.pro_main .pro_list .title h3 a{ width: 299px; height: 20px; font: 12px/20px "Arial"; color: #121212; display: block; text-align: center;}
+.pro_main .pro_list li:hover{ border: 2px solid #19191a;}

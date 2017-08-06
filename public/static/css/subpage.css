@@ -1,0 +1,31 @@
+.sub_banner{width: auto; height: 500px; position: relative; overflow: hidden;}
+.sub_banner ul{width: 1920px; height: 500px; position: absolute; left: 50%; margin-left: -960px;}
+.sub_banner ul li a img{ width: 1920px; height: 500px;}
+.content{ width: auto; height: auto; background:#eaebeb url(../img/subpage_bg.png) no-repeat center bottom; }
+.content .content_main{ width: 1200px; height: auto; margin: 0 auto; overflow: hidden; }
+.content .content_main .location{ width: 1130px; height: 50px; margin: 80px 35px 0px; border-bottom: 2px solid #6c6969;}
+.location .title h2{ font: normal 36px/40px "微软雅黑"; color: #121111; float: left;}
+.location .title h3{ font: normal 20px/63px "Arial"; color: #43a8ef; float: left; margin-left: 11px;}
+.location ul{ width: auto; height: 25px; float: right; margin-top: 28px;}
+.location ul li { font: 14px "微软雅黑"; color: #060606; float: right; margin-left: 8px;}
+.location ul li a{ font: 14px "微软雅黑"; color: #060606;}
+.location ul li a:hover{ color: #43a8ef;}
+.location .current{ color: #43a8ef;}
+.clear{clear: both;}
+.main_bottom{width: 1130px; height: auto; margin: 45px 35px 0;}
+.main_bottom .sidebar{ width: 179px; height: auto; background: url(../img/sidebar_bg_01.png) no-repeat center top; float: left;}
+.main_bottom .sidebar .sid_title{background: url(../img/sidebar_bg_03.png) no-repeat bottom ;z-index: 99999999;width: 179px;position: relative;}
+.main_bottom .sidebar .sid_title h2{ width: 170px; height: 22px; font: normal 18px/20px "微软雅黑"; color: #f9fafa; text-align: center; padding-top: 30px; margin-left: 9px;}
+.main_bottom .sidebar .sid_title h3{ width: 170px; height: 48px; font: normal 12px/18px "微软雅黑"; color: #f9fafa; text-align: center; margin-left: 9px; }
+.main_bottom .sidebar ul{ width: 179px; height: auto; background: url(../img/sidebar_bg_02.png) repeat-y; padding-bottom: 9px; margin-top: -5px;}
+.main_bottom .sidebar ul li{ width: 170px; height: 60px; margin-left: 9px; }
+.main_bottom .sidebar ul li a{width: 170px; height: 60px; font: 14px/60px "微软雅黑"; background: #0c1f3d; display: block; border-top: 1px solid #445e86; color: #cdcece; text-align: center; }
+.main_bottom .sidebar .current{ background: url(../img/sidebar_bg_03.png) no-repeat center top;}
+.main_bottom .sidebar .current a{border: none; background: #fbfcfc; color: #242525;}
+.main_bottom .sidebar ul li a:hover{ color: #242525; background: #fbfcfc;}
+.main_bottom .sidebar ul li a span{margin: 0px 23px;}
+
+.page{ width: 550px; height: 28px;}
+.page li a{  width: auto; height: 28px; font: 14px/28px "微软雅黑";color: #2a2c2c; padding: 0 11px; margin-right: 10px; display: block;float: left; border: 1px solid #0c1f3d;}
+.page li a:hover{ color: #04f5fe; background: #0c1f3d;}
+.page .current a{color: #04f5fe; background: #0c1f3d;}

@@ -1,0 +1,19 @@
+.con_main{width: 900px; height: auto; margin-left: 51px; float: right; }
+.con_main .con_top{ width: 900px; height: 320px;}
+.con_main .con_top form{ width: 400px; height: 305px; margin: 15px 0 0 100px; border-right: 1px solid #b9b9b9; float: left;}
+.con_main .con_top form ul li{width: auto; height: 28px; margin-bottom: 13px;}
+.con_main .con_top .con_code{padding-top: 70px;}
+.con_main .con_top form label{ width: 60px; height: 28px; font: 14px/28px "微软雅黑"; color: #242525; text-align: right; display: block; float: left;}
+.con_main .con_top form input{ width: 280px; height: 24px; border: 2px solid #777777; background: #eeeeee; float: left; padding: 0 6px; font: 14px/24px "微软雅黑"; color: #242525;}
+.con_main .con_top form textarea{ width: 280px; height: 80px; border: 2px solid #777777; background: #eeeeee; float: left; padding: 6px; font: 14px/24px "微软雅黑"; color: #242525;}
+.con_main .con_top form a{ width: 112px; height: 28px; font: 14px/28px "微软雅黑"; color: #242525; margin-left: 7px; display: block; float: left;}
+.con_main .con_top form img{ width: 64px; height: 26px; border: 1px solid #00a0e9; margin-left: 6px; float: left;}
+.con_main .con_top .code{width: 88px; height: 24px; border: 2px solid #777777;}
+.con_main .con_top .button{width: 347px; height: 24px;}
+.con_main .con_top .button input{ width: 71px; height: 24px; margin-left: 10px; background: #43a8ef; float: right; font: 14px/14px "微软雅黑"; color: #f3f6f7; border: none; cursor: pointer;}
+.con_main .con_top form a:hover{ color: #43a8ef;}
+.con_top .con_tel{ width: 250px; height: 305px; margin: 15px 0 0 60px; float: left;}
+.con_top .con_tel h2{ width: 100px; height: 40px; font: normal 24px "微软雅黑"; color: #242525; background: url(../img/contact_tel_bg.png) no-repeat left bottom;}
+.con_top .con_tel ul{ width: 250px; height: 200px; margin-top: 35px;}
+.con_top .con_tel ul li{ font: 14px/24px "微软雅黑"; color: #242525;}
+.con_main .map{width: 900px; height: 466px; font-size:12px; border: 1px solid #CCCCCC; margin: 35px 0 55px 0; background: #CCCCCC;}

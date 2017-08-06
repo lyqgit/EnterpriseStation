@@ -1,0 +1,47 @@
+*{ margin: 0; padding: 0;}
+body{font: 16px "微软雅黑"; color: #333333;}
+a,textarea,input:focus{outline:none}
+li{list-style-type:none;}
+textarea{overflow: auto; resize: none;}
+a{list-style-type: none; text-decoration: none;}
+img{ border: 0 none;}
+
+.clearfix:after{content: ""; display: block; clear: both;}
+
+.header{ width: 1200px; height: 120px; margin: 0 auto;}
+.header .logo img{ width: 213px; height: 72px; float: left; margin: 31px 0px 17px ;}
+.header .nav ul{ width: 945px; height: 120px; float: right;}
+.header .nav li a{ font: 18px/144px "微软雅黑"; color: #353738; text-align: center;width: 74px; height: 114px; margin-left: 115px; float: left; border-bottom: 6px solid #ffffff;}
+.header .nav li a:hover{ color: #43a8ef; border-bottom: 6px solid #43a8ef;}
+.header .nav .current{ color: #43a8ef; border-bottom: 6px solid #43a8ef;}
+
+.banner{width: auto; height: 500px; position: relative; overflow: hidden;}
+.banner ul{width: 1920px; height: 500px; position: absolute; left: 50%; margin-left: -960px;}
+.banner ul li a img{ width: 1920px; height: 500px;}
+.banner ul li { display: none;}
+#show{ display: block;}
+.banner ol{ width: auto; height: 16px; position: absolute; left: 50%; margin-left:-72px; bottom: 10px;}
+.banner ol li{width: 16px; height: 16px; float: left; background: #c9c9c9; margin: 0 15px; cursor: pointer;}
+#on{ background: #45ecf2;}
+
+.footer{ width: auto; height: 313px; background: #3d3c3e;}
+.footer .main{ width: 1200px; height: 313px; margin: 0 auto;}
+.footer .main_left{width: 760px; height: 240px; float: left; padding-top: 73px;}
+.footer .main_left ul{ width: 605px; height: 24px; margin-left: 70px;}
+.footer .main_left li a{ width: 120px; height: 24px; float: left; border-right: 1px solid #097bb5; font: 14px/24px "微软雅黑"; color: #e3e6e7; text-align: center;}
+.footer .main_left .unborder{ border-right: none;}
+.footer .main_left li a:hover{ color: #43a8ef;}
+.footer .main_left .footer_tel{ width: 300px; height: 30px; font: 14px/30px "Arial"; color: #ecedee; margin: 30px 0 0 100px; padding-left: 45px; background: url(../img/footer_bg_01.png) no-repeat;}
+.footer .main_left span{width: 300px; height: 30px; font: 14px/30px "Arial"; color: #ecedee; display: block; margin: 20px 0 0 100px; padding-left: 45px; background: url(../img/footer_bg_02.png) no-repeat;}
+.footer .main_left .copyright{width: 700px; height: 30px; font: 14px/30px "微软雅黑"; color: #ecedee; margin: 30px 0 0 100px; display: block;}
+.footer .main_right{width: 427px; height: 261px; float: left; margin: 23px 0; border-left: 1px solid #eeeeee; padding: 6px 0 0 12px;}
+.footer .main_right h2{ width: 123px; height: 19px; border-bottom: 2px solid #fbf7f6; font: normal 18px/8px "微软雅黑"; color: #f3f6f7; padding-left: 2px;}
+.footer .main_right form{width: 323px; height: 221px; margin-top: 10px;}
+.footer .main_right form li{ width: 323px; height: 39px; border-bottom: 2px solid #b9b8b8;}
+.footer .main_right form li label{ font: 14px/50px "微软雅黑"; color: #f3f6f7; padding-left: 3px;}
+.footer .main_right form li input{ background: #3d3c3e; border: none; font: 14px "微软雅黑"; color: #f3f6f7;}
+.footer .main_right form p{width: 323px; height: auto; padding-top: 7px;}
+.footer .main_right form p label{font: 14px/27px "微软雅黑"; color: #f3f6f7; padding-left: 3px;}
+.footer .main_right form p textarea{ width: 307px; height: 62px; border: 2px solid #b9b8b8; padding: 6px; font: 14px "微软雅黑"; color: #333333; background: #eeeeee;}
+.footer .main_right .btn{width: 325px; margin-top: 13px;}
+.footer .main_right .btn input{ width: 71px; height: 24px; margin-left: 10px; background: #43a8ef; float: right; font: 14px/14px "微软雅黑"; color: #f3f6f7; border: none; cursor: pointer;}

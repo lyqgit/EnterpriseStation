@@ -1,0 +1,8 @@
+.det_main{width: 823px; height: auto; margin: 12px 60px 0; float: right; margin-bottom: 50px;}
+.det_main h1{ width: 721px; height: 63px; margin: 0 auto; font: 28px/63px "微软雅黑"; color: #373839; text-align: center; background: url(../img/news_details_bg.png) no-repeat; margin-bottom: 15px;}
+.det_main span{ font: 14px/26px "微软雅黑"; color: #adb0b1; display: block; text-align: center;}
+.det_main img{ width: 823px; height: 400px; margin: 28px 0;}
+.det_main p{ font: 14px/24px "微软雅黑"; color: #1f2020; text-indent: 2em; margin-bottom: 30px;}
+.det_main a{ font: 12px/40px "微软雅黑"; color: #373839;}
+.det_main a span{ font: 12px/40px "微软雅黑"; color: #373839; margin-left: 20px;}
+.det_main a:hover{ color: #01a1ff;}
